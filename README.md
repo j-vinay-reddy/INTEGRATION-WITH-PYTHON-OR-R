@@ -97,3 +97,4 @@ Interactive filtering and dynamic visual linking
 This Power BI dashboard successfully combines data science techniques like clustering and classification with powerful visualization tools to offer a deep, actionable look into panel pricing dynamics. It transforms raw data into meaningful insights, allowing users to explore trends, patterns, and pricing strategies interactively. With its user-friendly design and color-coded clarity, it empowers both technical and non-technical users to make smarter, faster business decisions.
 
 # OUTPUT
+![Image](https://github.com/user-attachments/assets/6f4af30c-eb30-4918-9a14-e5d7a02c2992)
